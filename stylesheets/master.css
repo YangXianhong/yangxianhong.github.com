@@ -5,7 +5,7 @@ body {
   color: #353B40;
   margin: 0;
   padding: 0;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 a {
@@ -34,13 +34,10 @@ a:visited {
   float: left;
 }
 
-#header h1 a {  
-  margin-top: 10px;
+#header h1 a {
+  margin-top: 30px;
+  margin-left: 5px;
   display: block;
-  background: url(/images/title.gif) no-repeat top left;
-  width: 405px;
-  height: 80px;
-  text-indent: -999em;
 }
 
 #menu {
@@ -76,6 +73,10 @@ a:visited {
 #menu ul li a#weibo-link { background-image: url(/images/weibo.gif); }
 #menu ul li a#home-link { background-image: url(/images/home.gif); }
 #menu ul li a#docs-link { background-image: url(/images/docs.gif); }
+#menu ul li a#categories-link { background-image: url(/images/categories.gif); }
+#menu ul li a#tags-link { background-image: url(/images/tags.gif); }
+#menu ul li a#activiti-link { background-image: url(/images/activiti.gif); }
+#menu ul li a#forum-link { background-image: url(/images/forum.gif); }
 
 #content {
   padding: 2em 0;
@@ -84,7 +85,7 @@ a:visited {
 #content h2 {
   margin: 0 0 0.5em 0;
   color: black;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 #content p {
@@ -110,10 +111,10 @@ span.date {
   -moz-border-radius-topleft: 8px;
   -webkit-border-top-left-radius: 8px;
   -moz-border-radius-topright: 8px;
-  -webkit-border-top-right-radius: 8px;  
+  -webkit-border-top-right-radius: 8px;
   -moz-box-shadow: 1px -1px 5px rgba(0,0,0,0.4);
   -webkit-box-shadow: 1px -1px 5px rgba(0,0,0,0.4);
-  box-shadow: 1px -1px 5px rgba(0,0,0,0.4);    
+  box-shadow: 1px -1px 5px rgba(0,0,0,0.4);
   float: left;
   text-shadow: black 1px 1px 4px;
 }
@@ -148,7 +149,13 @@ div.post h3 {
   color: black;
   margin: 1em 0 0.7em 0;
   font-weight: normal;
-  font-size: 1.4em;
+  font-size: 1em;
+  background-color: #EEC9A6;
+  padding: 3px 0 3px 5px;
+-moz-border-radius-topleft: 8px; -webkit-border-top-left-radius: 8px; -khtml-border-top-left-radius: 8px; border-top-left-radius: 8px;
+  -moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 8px; -khtml-border-top-right-radius: 8px; border-top-right-radius: 8px;
+  -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 8px; -khtml-border-bottom-left-radius: 8px; border-bottom-left-radius: 8px;
+  -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 8px; -khtml-border-bottom-right-radius: 8px; border-bottom-right-radius: 8px;
 }
 
 pre {
@@ -224,7 +231,7 @@ div.related {
   -moz-border-radius-topleft: 8px;
   -webkit-border-top-left-radius: 8px;
   -moz-border-radius-topright: 8px;
-  -webkit-border-top-right-radius: 8px;  
+  -webkit-border-top-right-radius: 8px;
   -moz-box-shadow: 1px 0px 5px rgba(0,0,0,0.5);
   -webkit-box-shadow: 1px 0 5px rgba(0,0,0,0.5);
   box-shadow: 1px 0 5px rgba(0,0,0,0.5);
@@ -291,6 +298,10 @@ code {
   line-height: 150%;
 }
 
+.sidebar-item ul {
+  padding-left: 20px;
+}
+
 .sidebar-item h3 {
   margin: 0 0 0.3em 0;
 }
@@ -315,3 +326,30 @@ code {
 .float-right { float: right; }
 
 a img { border: 0; }
+
+.sidebar-posts li {padding: 2px 0 2px;}
+.corner-all {
+  -moz-border-radius-topleft: 8px; -webkit-border-top-left-radius: 8px; -khtml-border-top-left-radius: 8px; border-top-left-radius: 8px;
+  -moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 8px; -khtml-border-top-right-radius: 8px; border-top-right-radius: 8px;
+  -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 8px; -khtml-border-bottom-left-radius: 8px; border-bottom-left-radius: 8px;
+  -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 8px; -khtml-border-bottom-right-radius: 8px; border-bottom-right-radius: 8px;
+}
+.original-post {
+  font-size: .8em;
+  font-style: italic;
+  background: yellow;
+  padding: .5em;
+}
+
+.categories, .tags {list-style-type:none;}
+.categories li, .tags li {display:inline; margin: 0.2em 0.5em;}
+.categories li a:hover, .tags li a:hover {color: blue;}
+
+.parameters { width:100%; border:0; border-collapse:collapse }
+.parameters th,
+.parameters td { border:1px solid #c5c5c5; padding:5px; background-color:#fff; color:#000 }
+.parameters th { background:#D9D9D9 !important; border-color:#d9d9d9 !important }
+.parameters .parameter { font-family:Fixed, monospace }
+
+.cse .gsc-control-cse, .gsc-control-cse {padding: 0em !important;}
+.body img {width: 100%;}

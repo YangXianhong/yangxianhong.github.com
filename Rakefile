@@ -47,15 +47,3 @@ YAML
     end
   end
 end
-
-desc "Run jekyll serve"
-task :serve do
-  puts "Startup web service"
-  `jekyll serve`
-end
-
-desc "Run jekyll build"
-task :build do
-  puts "Start to build web pages"
-  `jekyll build`
-end
