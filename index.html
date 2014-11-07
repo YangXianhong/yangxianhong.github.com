@@ -12,7 +12,7 @@ full_posts: 3
 {% for post in site.posts limit:page.full_posts %}
   <div class='post'>
    <!-- <span class='date'>{{post.date | date: "%Y-%m-%d"}}</span> -->
-    <h1><a href='{{post.url}}'>{{post.title}}</a><span class='date'>{{post.date | date: "%Y-%m-%d"}}</span></h1>
+    <h1><a href='{{post.url}}'>{{post.title}}</a><span align="left">{{post.date | date: "%Y-%m-%d"}}</span></h1>
     <div class='body'>{{post.content}}</div>
     <a href='{{post.url}}#disqus_thread'>View Comments</a>
   </div>
