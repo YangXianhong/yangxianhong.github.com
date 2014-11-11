@@ -6,7 +6,12 @@ tags:
  - Activiti
  - Diagram Viewer
 ---
+Rainbow BPM系统设计
 
+作者：七色光 
+时间：2013-12-26
+电话：18627931496
+邮箱：yangxianhong1001@163.com
 
 
 ## 1.产品设计思想
@@ -25,3 +30,6 @@ tags:
 源代码下载地址：
 > http://github.com/yangxianhong
 
+## 2.系统架构
+
+![](/files/2014/11/pic1.png)
