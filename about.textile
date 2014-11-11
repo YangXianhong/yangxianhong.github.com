@@ -7,56 +7,37 @@ h2. 关于我
 
 * 一个典型的攻城师、码农，崇尚自由，喜欢关注新鲜事物
 
-* 擅长B/S系统开发，使用技术、框架：Java及其(SS、SSH2)架构、Ajax(jQuery)、html、Css；CAS、Spring Security；Activiti
+* 擅长B/S系统开发，使用技术：Java及其主流框架架构（Javaee、Struts2、Spring、Hibernate、Mybatis等）、javascrit、jquery
 
-* 喜欢*nix、CLI控、开源、技术宅
+* 擅长系统分析及设计、架构设计
 
-h2. 软硬环境
+* 喜欢创新、开源技术
 
-* 操作系统：Mac OS X
 
-* Shell: zsh(oh-my-zsh)
+h2. 关于www.sevenlight.me
 
-* 编辑器：VIM && Sublime Text
+* 介绍行业最新技术及开源产品应用
 
-* IDE：Eclipse With JAVAEE
+* 发布个人开源产品最新信息
 
-* 浏览器：Chrome，偶尔使用Firefox、Safari，迫于无奈用IE测试……
+* 个人实际经验分享
 
-* 笔记本：Macbook Pro MD103，CPU：I7 2.3G，内存：16G（内存必须大），硬盘：600G（120G SSD + 500G HDD，组成Fusion Driver）
+* 宗旨：解放程序员的双手、让他们有更多时间去思考产品；创新是永久不变的真理；
 
-h2. 关于www.kafeitu.me
-
-* 介绍业内流行、成熟的技术、工具，博主热衷分享研究成果
-
-* 以html、css、javascript、ajax、jQuery为前端技术
-
-* 以Java、SSH(SpringMVC)为后台基础
-
-* 以Maven、Ant、CI(Jenkins)、Sonar为辅助工具
-
-* 以Git作为SCM工具
-
-* 偶尔分享一些关于Shell方面的文章
-
-* 以技术的实用性为导向，结合实例讲解各个系统、功能的实现过程
-
-* 以资源共享的方式分享给广大的BS架构的开发人员以提高个人水平
 
 h2. 联系我
 
-* QQ：576525789
-* Email、Apple ID：yanhonglei[@]gmail.com
+* QQ：519724210
+* Email、Apple ID：yangxianhong1001@163.com
 * 微博（Weibo Sina）: <a href='http://weibo.com/kafeituzi'>@我才是咖啡兔</a>
-* Twitter: <a href='http://twitter.com/kafeituzi'>@kafeituzi</a>
-* 博客（Blog）: <a href='http://www.kafeitu.me'>http://www.kafeitu.me</a>
+* 博客（Blog）: <a href='http://www.sevenlight.me'>http://www.sevenlight.me</a>
 
-h2. Github项目
+h2. RBPM 开源工作流管理平台项目
 
-花点时间浏览或许能发现你所需要的^_^
+旨在为打造一款适合国内企业使用的工作流程管理平台，结合世界顶级工作流程管理平台的思想，融合了国内企业使用习惯，具有很强可扩展性，结合了当前信息化的发展趋势：云计算、移动办公
 
-* <a href='https://github.com/henryyan'>https://github.com/henryyan</a>
+* 源代码地址：<a href='https://github.com/yangxianhong'>https://github.com/yangxianhong</a>
 
 h2. 关于版权
 
-除特别说明外，本博客内容皆为原创，可以自由转载传播，但请署名及注明出处（鄙视垃圾爬虫）！
+除特别说明外，本博客内容皆为原创，可以自由转载传播，但请署名及注明出处！
