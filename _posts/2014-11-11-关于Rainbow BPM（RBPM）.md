@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "关于Rainbow BPM（RBPM）"
-category: activiti
+category: RBPM
 tags: 
- - Activiti
- - Diagram Viewer
+ - RBPM
+ - rainbow bpm
 ---
 Rainbow BPM系统设计
 
