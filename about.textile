@@ -28,8 +28,11 @@ h2. 关于www.sevenlight.me
 h2. 联系我
 
 * QQ：519724210
-* Email、Apple ID：yangxianhong1001@163.com
-* 微博（Weibo Sina）: <a href='http://weibo.com/kafeituzi'>@我才是咖啡兔</a>
+
+* Email：yangxianhong1001@163.com
+
+* 微博（Weibo Sina）: <a href='http://weibo.com/u/1651980865'>@七色光</a>
+
 * 博客（Blog）: <a href='http://www.sevenlight.me'>http://www.sevenlight.me</a>
 
 h2. RBPM 开源工作流管理平台项目
