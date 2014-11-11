@@ -147,7 +147,7 @@ div.post {
 
 div.post h3 {
   color: black;
-  margin: 1em 0 0.4em 0;
+  margin: 1em 0 0.7em 0;
   font-weight: normal;
   font-size: 1.4em;
 }
@@ -217,7 +217,7 @@ div.related {
 
 #content .home-box h2 {
   background: #6e9b20 url(/images/green_gradient.gif) repeat-x bottom;
-  padding: 0.3em 0.5em;
+  padding: 0.2em 0.3em;
   border-bottom: 3px solid #262;
   margin-bottom: 0em;
   color: white;
