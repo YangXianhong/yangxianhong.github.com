@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "使用 git-svn 和 git-filter-branch 整理 SVN 版本库"
 ---
 

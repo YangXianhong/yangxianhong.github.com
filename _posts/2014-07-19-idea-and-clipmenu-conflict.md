@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Mac平台上IntelliJ IDEA与Clipmenu快捷键冲突解决办法"
 category: tools
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "在Activiti中集成JPA（解决动态表单生成的大量数据）"
 category: activiti
 tags: 
