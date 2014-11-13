@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "Linux下springside4快捷脚本（quick-start、generate-project）"
 wordpress_id: 1605
 wordpress_url: http://www.wsria.com/?p=1605

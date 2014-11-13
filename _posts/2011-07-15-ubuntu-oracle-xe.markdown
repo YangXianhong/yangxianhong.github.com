@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "Ubuntu安装ORACLE-XE"
 wordpress_id: 1529
 wordpress_url: http://www.wsria.com/?p=1529

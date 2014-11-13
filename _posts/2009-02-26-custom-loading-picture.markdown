@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "自己动手定制ajax loading图片"
 wordpress_id: 375
 wordpress_url: http://www.wsria.com/?p=375

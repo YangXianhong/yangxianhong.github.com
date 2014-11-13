@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "在Ubuntu上安装Git1.7.10-rc4(中文化)"
 category: git
 tags: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Why Git is better than SVN"
 ---
 

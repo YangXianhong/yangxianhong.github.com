@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "HR教你怎么投简历"
 wordpress_id: 412
 wordpress_url: http://www.wsria.com/?p=412

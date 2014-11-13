@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "从Google搜索联想到了jQuery"
 wordpress_id: 245
 wordpress_url: http://www.wsria.com/?p=245

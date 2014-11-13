@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "申请友链及说明"
 wordpress_id: 237
 wordpress_url: http://www.wsria.com/?p=237

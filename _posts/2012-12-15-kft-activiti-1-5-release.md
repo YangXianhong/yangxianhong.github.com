@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "kft-activiti-demo 1.5.0 发布"
 category: activiti
 tags:

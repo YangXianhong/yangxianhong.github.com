@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "让Activiti记录变量历史信息"
 category: activiti
 tags:

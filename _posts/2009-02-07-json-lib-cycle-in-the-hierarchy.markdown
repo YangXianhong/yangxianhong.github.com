@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "出现net.sf.json.JSONException: There is a cycle in the hierarchy异常的解决办法"
 wordpress_id: 14
 wordpress_url: http://wsria.com/?p=14

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "既爱又恨Firefox"
 wordpress_id: 259
 wordpress_url: http://www.wsria.com/?p=259

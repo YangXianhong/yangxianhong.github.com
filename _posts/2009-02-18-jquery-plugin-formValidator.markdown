@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "推荐jQuery插件系列——表单验证formValidator"
 wordpress_id: 214
 wordpress_url: http://www.wsria.com/?p=214

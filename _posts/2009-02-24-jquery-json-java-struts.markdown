@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "实例解析java + jQuery + json工作过程(登录)"
 wordpress_id: 300
 wordpress_url: http://www.wsria.com/?p=300

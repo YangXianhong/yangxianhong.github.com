@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "公布一下我的Evernote分享地址"
 wordpress_id: 1331
 wordpress_url: http://www.wsria.com/?p=1331

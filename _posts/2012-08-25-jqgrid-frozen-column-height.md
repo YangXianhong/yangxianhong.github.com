@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "jqGrid启用列冻结之后列高度不一致问题解决办法"
 category: jquery 
 tags: 

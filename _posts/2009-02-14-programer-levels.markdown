@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "程序员的十种级别，看看你属于哪个级别的程序员"
 wordpress_id: 109
 wordpress_url: http://www.wsria.com/?p=109

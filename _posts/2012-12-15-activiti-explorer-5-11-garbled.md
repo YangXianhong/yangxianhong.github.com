@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Activiti Explorer 5.11登录页面乱码解决办法"
 category: activiti 
 tags: 

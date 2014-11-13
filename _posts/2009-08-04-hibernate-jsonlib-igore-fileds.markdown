@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "使用hibernate和json-lib时忽略属性和集合"
 wordpress_id: 670
 wordpress_url: http://www.wsria.com/?p=670

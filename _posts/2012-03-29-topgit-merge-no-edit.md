@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "New hack for topgit: git-merge--no-edit"
 ---
 

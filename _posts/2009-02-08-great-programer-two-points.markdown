@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "优秀程序员的两大要素：懒+笨"
 wordpress_id: 67
 wordpress_url: http://wsria.com/?p=67

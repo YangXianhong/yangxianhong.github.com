@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "如何使用Activiti Rest模块"
 category: activiti
 tags: 

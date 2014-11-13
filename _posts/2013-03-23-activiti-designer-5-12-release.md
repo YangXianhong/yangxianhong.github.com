@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Activiti Designer 5.12.0 发布"
 category: activiti
 tags:

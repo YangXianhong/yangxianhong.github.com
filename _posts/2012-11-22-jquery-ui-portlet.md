@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "基于jQuery UI的Portlet插件—jQuery UI Portlet"
 category: jquery
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "推荐：jQuery提示插件qTip2"
 category: jquery
 tags: 

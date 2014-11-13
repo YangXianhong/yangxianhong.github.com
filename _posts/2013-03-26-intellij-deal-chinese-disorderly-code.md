@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "IntelliJ IDEA中文乱码解决办法"
 category: tools
 tags:

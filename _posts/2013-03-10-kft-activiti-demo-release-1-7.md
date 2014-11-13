@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Activiti快速入门项目kft-activiti-demo 1.7.0版本发布"
 category: activiti
 tags:

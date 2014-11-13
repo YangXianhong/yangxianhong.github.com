@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "jQuery.plugin——强大的遮罩层(nyroModal)"
 wordpress_id: 429
 wordpress_url: http://www.wsria.com/?p=429

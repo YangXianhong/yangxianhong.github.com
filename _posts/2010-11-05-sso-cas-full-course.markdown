@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "CAS单点登录(SSO)完整教程(2012-02-01更新)"
 wordpress_id: 1349
 wordpress_url: http://www.wsria.com/?p=1349

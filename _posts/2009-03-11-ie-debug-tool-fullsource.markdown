@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "IE浏览器下的JS实用调试小工具——fullsource(2K)"
 wordpress_id: 461
 wordpress_url: http://www.wsria.com/?p=461

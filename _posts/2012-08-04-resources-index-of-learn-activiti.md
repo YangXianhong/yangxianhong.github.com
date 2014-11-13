@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Activiti入门，学习资源索引"
 category: activiti 
 tags: 

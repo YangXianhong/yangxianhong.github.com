@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "我暴露了程序员的习惯"
 wordpress_id: 232
 wordpress_url: http://www.wsria.com/?p=232

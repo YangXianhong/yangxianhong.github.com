@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "从Wordpress迁移到Github"
 category: blog
 tags:

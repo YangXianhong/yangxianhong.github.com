@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "推荐国外著名的xhtml+css模板"
 wordpress_id: 481
 wordpress_url: http://www.wsria.com/?p=481

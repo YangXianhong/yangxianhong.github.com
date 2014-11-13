@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "[转][推荐]15 个 JavaScript Web UI 库"
 wordpress_id: 974
 wordpress_url: http://www.wsria.com/?p=974

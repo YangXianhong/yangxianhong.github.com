@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "Apache Asia Roadshow 2010归来"
 wordpress_id: 1111
 wordpress_url: http://www.wsria.com/?p=1111

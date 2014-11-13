@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "模拟google相册鼠标移动提示信息"
 wordpress_id: 285
 wordpress_url: http://www.wsria.com/?p=285

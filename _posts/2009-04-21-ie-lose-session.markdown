@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "IE中丢失session问题解决办法"
 wordpress_id: 510
 wordpress_url: http://www.wsria.com/?p=510

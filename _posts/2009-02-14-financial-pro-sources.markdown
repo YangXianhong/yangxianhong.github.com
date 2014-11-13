@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "基于Java、jQuery应用的账务管理系统开源了(09.3.19更新)"
 wordpress_id: 136
 wordpress_url: http://www.wsria.com/?p=136

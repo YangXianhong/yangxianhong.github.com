@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "关于WEB开发中引入javascript文件方式的一点建议"
 wordpress_id: 12
 wordpress_url: http://wsria.com/?p=12

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "程序员的学历有多重要"
 wordpress_id: 731
 wordpress_url: http://www.wsria.com/?p=731

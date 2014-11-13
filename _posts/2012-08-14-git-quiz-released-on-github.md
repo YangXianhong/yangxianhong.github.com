@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Git测试问卷完整版"
 ---
 

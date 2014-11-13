@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "jQuery性能优化指南"
 wordpress_id: 555
 wordpress_url: http://www.wsria.com/?p=555

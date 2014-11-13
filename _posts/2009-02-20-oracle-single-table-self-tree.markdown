@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "单表查询树形结构的SQL语句"
 wordpress_id: 241
 wordpress_url: http://www.wsria.com/?p=241

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: " javascript中字符串累加的性能优化(String和StringBuffer)"
 wordpress_id: 17
 wordpress_url: http://wsria.com/?p=17

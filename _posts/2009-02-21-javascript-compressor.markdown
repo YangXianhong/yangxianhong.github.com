@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "分享：JavaScript在线压缩工具"
 wordpress_id: 249
 wordpress_url: http://www.wsria.com/?p=249

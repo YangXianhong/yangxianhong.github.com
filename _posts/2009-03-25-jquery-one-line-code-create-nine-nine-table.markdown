@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "一行jQuery代码打印九九乘法表"
 wordpress_id: 471
 wordpress_url: http://www.wsria.com/?p=471

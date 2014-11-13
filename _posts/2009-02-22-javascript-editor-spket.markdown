@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "推荐一个不错的js编辑工具Spket IDE for eclipse"
 wordpress_id: 296
 wordpress_url: http://www.wsria.com/?p=296

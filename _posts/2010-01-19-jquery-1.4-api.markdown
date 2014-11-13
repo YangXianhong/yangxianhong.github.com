@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "jQuery1.4 API 区别与更新中文版"
 wordpress_id: 796
 wordpress_url: http://www.wsria.com/?p=796

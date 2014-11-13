@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "一个基于Maven的配置文件管理成功案例"
 category: solution 
 tags: 

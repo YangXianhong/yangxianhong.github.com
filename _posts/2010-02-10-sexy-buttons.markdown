@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "Sexy Buttons（Web 按钮[图标]素材）"
 wordpress_id: 813
 wordpress_url: http://www.wsria.com/?p=813

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "在Linux(Ubuntu)+Nginx安装配置AjaXplorer"
 category: tools
 tags: 

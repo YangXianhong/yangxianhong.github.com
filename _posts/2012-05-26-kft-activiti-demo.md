@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Activiti快速入门项目-kft-activiti-demo"
 category: activiti
 tags: 

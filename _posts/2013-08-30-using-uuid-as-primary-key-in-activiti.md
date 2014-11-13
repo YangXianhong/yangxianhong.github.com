@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "在Activiti中使用UUID作为主键生成策略"
 category: activiti
 tags: 

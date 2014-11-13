@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "转：关于web2.0网站易用性设计的一些原则"
 wordpress_id: 804
 wordpress_url: http://www.wsria.com/?p=804

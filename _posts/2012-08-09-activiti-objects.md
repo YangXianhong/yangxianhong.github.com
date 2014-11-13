@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "谈谈Activiti中流程对象之间的关系"
 category: activiti 
 tags: 

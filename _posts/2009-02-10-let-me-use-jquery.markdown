@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "推荐使用轻量级ajax框架-jQuery"
 wordpress_id: 84
 wordpress_url: http://wsria.com/?p=84

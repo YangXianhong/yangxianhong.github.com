@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "activiti:initiator的作用及其使用"
 category: activiti 
 tags: 

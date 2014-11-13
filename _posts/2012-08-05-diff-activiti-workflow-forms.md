@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "比较Activiti中三种不同的表单及其应用"
 category: activiti
 tags:

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "推荐日期选择组件My97 DatePicker"
 wordpress_id: 263
 wordpress_url: http://www.wsria.com/?p=263

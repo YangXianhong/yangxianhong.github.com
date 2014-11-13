@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "6个你必须用到AJAX的地方与6个不必用到的地方"
 wordpress_id: 505
 wordpress_url: http://www.wsria.com/?p=505

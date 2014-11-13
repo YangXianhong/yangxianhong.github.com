@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "直逼 Flash 的流畅感：jQuery 运动特效展示"
 wordpress_id: 918
 wordpress_url: http://www.wsria.com/?p=918

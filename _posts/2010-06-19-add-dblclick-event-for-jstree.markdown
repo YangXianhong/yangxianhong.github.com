@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "为jstree添加双击事件切换[展开/收缩]功能"
 wordpress_id: 989
 wordpress_url: http://www.wsria.com/?p=989

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "基于jQuery开发的账务管理系统(个人版)演示"
 wordpress_id: 73
 wordpress_url: http://wsria.com/?p=73

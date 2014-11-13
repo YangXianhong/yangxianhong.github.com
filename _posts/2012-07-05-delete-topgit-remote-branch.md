@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Topgit 本地和远程分支的删除同步以及 git fetch --prune 分析"
 ---
 

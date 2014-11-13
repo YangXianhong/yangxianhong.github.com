@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "Git Submodule使用完整教程"
 category: git
 tags: 

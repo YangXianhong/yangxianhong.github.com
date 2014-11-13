@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "jQuery1.3中文API下载(HTML、chm版)"
 wordpress_id: 151
 wordpress_url: http://www.wsria.com/?p=151

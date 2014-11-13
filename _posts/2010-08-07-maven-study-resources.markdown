@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "Maven学习引导"
 wordpress_id: 1072
 wordpress_url: http://www.wsria.com/?p=1072

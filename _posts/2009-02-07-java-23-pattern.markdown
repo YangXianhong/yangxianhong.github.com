@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "经典：从追MM谈Java的23种设计模式"
 wordpress_id: 20
 wordpress_url: http://wsria.com/?p=20

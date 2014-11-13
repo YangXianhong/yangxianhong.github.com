@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "推荐：国内第一本Maven书籍——《Maven实战》"
 wordpress_id: 1480
 wordpress_url: http://www.wsria.com/?p=1480

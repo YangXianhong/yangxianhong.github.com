@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "在Ubuntu(Debian)上安装最新版Git"
 category: git
 tags: 

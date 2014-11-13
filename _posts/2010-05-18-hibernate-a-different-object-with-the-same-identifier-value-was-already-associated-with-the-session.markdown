@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "解决a different object with the same identifier value was already associated with the session错误"
 wordpress_id: 972
 wordpress_url: http://www.wsria.com/?p=972

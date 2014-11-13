@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "转：Javascript 脚本的调试经验"
 wordpress_id: 255
 wordpress_url: http://www.wsria.com/?p=255

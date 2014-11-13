@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "工欲善其事必先利其器--Java Web快速开发框架--Springside"
 wordpress_id: 1188
 wordpress_url: http://www.wsria.com/?p=1188

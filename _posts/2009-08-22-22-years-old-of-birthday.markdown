@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "22岁生日"
 wordpress_id: 691
 wordpress_url: http://www.wsria.com/?p=691

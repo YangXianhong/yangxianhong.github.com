@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "新版Activiti Modeler发布以及教程"
 category: activiti
 tags:

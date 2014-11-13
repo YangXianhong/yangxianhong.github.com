@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: post-1
 title: "Linux(Ubuntu)环境安装配置Nginx+Dokuwiki"
 wordpress_id: 1613
 wordpress_url: http://www.wsria.com/?p=1613

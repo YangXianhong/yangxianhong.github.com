@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-1
 title: "同步或者重构Activiti Identify用户数据的多种方案比较"
 category: activiti
 tags: 
