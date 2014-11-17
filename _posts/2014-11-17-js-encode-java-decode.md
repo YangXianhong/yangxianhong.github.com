@@ -6,9 +6,9 @@ tags:
  - js 
  - encode
 ---
-*js加密
+##js加密
 <pre>
-<!-- base64加密开始-->
+
 		var keyStr = "ABCDEFGHIJKLMNOP" +"QRSTUVWXYZabcdef" +"ghijklmnopqrstuv" +"wxyz0123456789+/" + "=";
 		
 		function encode64(input) {
@@ -43,11 +43,11 @@ tags:
 			 return output;
 		   
 		}	
-		<!-- base64加密结束-->
+	
 
 </pre>
 
-*java解密
+##java解密
 <pre>
 private static char[] base64EncodeChars = new char[] {    
 		 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
