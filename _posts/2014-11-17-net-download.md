@@ -6,8 +6,8 @@ tags:
  - java 
  - download
 ---
+最近项目上做了一个移动办公项目，开始客户预订是在内网使用。做完后，客户又想可以连接外网使用该平台。麻烦就出现了，本来将该系统服务端发布到外网上就可以了，但在实际评估中发现客户端很多的下载、新闻、图片展示等功能都是使用的其它应用系统上的链接。而这些系统都是在内网中，无法在外网中使用。如果要改造使之可以正常下载展示这些内容，改动量就会很大。经过考虑，我想最好的办法，是将这些链接的内容在服务端（服务端是内外网都可以访问的）做转换，使它可以直接下载内网中其它系统的文件。原理是java下载时将下载服务器端文件改为下载网络文件。听起来是有些拗口，那就让我把实现后的原代码贴出来吧
 
-      最近项目上做了一个移动办公项目，开始客户预订是在内网使用。做完后，客户又想可以连接外网使用该平台。麻烦就出现了，本来将该系统服务端发布到外网上就可以了，但在实际评估中发现客户端很多的下载、新闻、图片展示等功能都是使用的其它应用系统上的链接。而这些系统都是在内网中，无法在外网中使用。如果要改造使之可以正常下载展示这些内容，改动量就会很大。经过考虑，我想最好的办法，是将这些链接的内容在服务端（服务端是内外网都可以访问的）做转换，使它可以直接下载内网中其它系统的文件。原理是java下载时将下载服务器端文件改为下载网络文件。听起来是有些拗口，那就让我把实现后的原代码贴出来吧
 ##下载实现
 web.xml中servlet配置
 <pre>
@@ -167,7 +167,7 @@ public class DownloadServlet extends HttpServlet {
 
 </pre>
 
-##图片展示
+##download实现图片展示
 <pre>
 package com.isoftstone.service;
 
@@ -230,7 +230,7 @@ public class NewShowService {
 		    		String re=list.get(0).getStr("CONTENT");
 		    		try {
 		    			String newStr2="";
-						//将新闻内容中的<img>标签中的url路径地址，替换成新的下载地址，即download_url?urlFile=old_url
+						//将新闻内容中的img标签中的url路径地址，替换成新的下载地址，即download_url?urlFile=old_url
 		    			newStr2=re.replace("/gyygbg/", Resource.HOST_URL+"/gygsmobile/downloadFile?fileUrl="+Resource.YGBG_URL+"/gyygbg/");	
 						informationContent.setContent(newStr2);
 					} catch (Exception e) {
