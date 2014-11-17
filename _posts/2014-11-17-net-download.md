@@ -10,7 +10,7 @@ tags:
 
 ##下载实现
 web.xml中servlet配置
-<pre>
+<pre class="brush:xml">
   <!-- 下载servlet start-->
    <servlet>
     <servlet-name>DownloadFile</servlet-name>
@@ -25,7 +25,7 @@ web.xml中servlet配置
 </pre>
 
 ##servlet java类
-<pre>
+<pre class="brush:java">
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
@@ -168,7 +168,7 @@ public class DownloadServlet extends HttpServlet {
 </pre>
 
 ##download实现图片展示
-<pre>
+<pre class="brush:java">
 package com.isoftstone.service;
 
 import java.io.UnsupportedEncodingException;

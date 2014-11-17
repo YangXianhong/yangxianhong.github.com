@@ -7,7 +7,7 @@ tags:
  - encode
 ---
 ##js加密
-<pre>
+<pre class="brush:javascript">
 
 		var keyStr = "ABCDEFGHIJKLMNOP" +"QRSTUVWXYZabcdef" +"ghijklmnopqrstuv" +"wxyz0123456789+/" + "=";
 		
@@ -48,7 +48,7 @@ tags:
 </pre>
 
 ##java解密
-<pre>
+<pre class="brush:java">
 private static char[] base64EncodeChars = new char[] {    
 		 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
 		 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
